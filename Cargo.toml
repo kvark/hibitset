@@ -1,12 +1,12 @@
 [package]
 name = "hibitset"
-version = "0.1.0"
+version = "0.1.1"
 description = "Hierarchical bit set structure"
 documentation = "https://slide-rs.github.io/hibitset/"
 repository = "https://github.com/slide-rs/hibitset"
 keywords = ["bitset", "container", "data-structures", "hierarchical"]
 license = "Apache-2.0"
-authors = ["csheratt"]
+authors = ["csheratt", "torkleyy"]
 
 [dependencies]
 atom = "0.3"
